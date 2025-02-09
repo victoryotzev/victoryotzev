@@ -39,12 +39,12 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoryotzev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoryotzev&theme=tokyonight)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victoryotzev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victoryotzev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victoryotzev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victoryotzev&theme=tokyonight)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victoryotzev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victoryotzev&theme=tokyonight&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victoryotzev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victoryotzev&theme=tokyonight&utcOffset=2)
 
 </div>
