@@ -39,14 +39,10 @@
 
 <div align="center">
   
-<!-- Profile Details Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=victoryotzev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Viktor's GitHub Stats" />
-
-<!-- Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoryotzev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Viktor's Top Languages" />
-
-<!-- Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=victoryotzev&theme=tokyonight&hide_border=true" alt="Viktor's Streak Stats" />
+![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoryotzev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&token=${GITHUB_TOKEN})
+  
+![Viktor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoryotzev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&token=${GITHUB_TOKEN})
+  
+![Viktor's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=victoryotzev&theme=tokyonight&hide_border=true)
 
 </div>
-
