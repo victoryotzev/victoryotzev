@@ -34,15 +34,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoryotzev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&token=${GITHUB_TOKEN})
-  
-![Viktor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoryotzev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&token=${GITHUB_TOKEN})
-  
-![Viktor's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=victoryotzev&theme=tokyonight&hide_border=true)
-
-</div>
