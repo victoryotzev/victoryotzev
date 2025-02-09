@@ -8,7 +8,7 @@ on:
     branches: [ "main" ]
 
 permissions:
-  contents: write # Add explicit permissions
+  contents: write
 
 jobs:
   update-readme:
@@ -23,8 +23,9 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_GITHUB }}
-          EXCLUDE_LANGUAGES: "" # Optional: add languages to exclude
-          UTC_OFFSET: 1 # Optional: adjust to your timezone
+          UTC_OFFSET: 2  # Bulgaria (EET) timezone
+          INCLUDE_ALL_COMMITS: "true"
+          COUNT_PRIVATE: "true"
 
       - name: Commit changes
         run: |
