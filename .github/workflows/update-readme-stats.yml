@@ -19,20 +19,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate GitHub Stats Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_GITHUB }}
-          UTC_OFFSET: 2  # Bulgaria (EET) timezone
-          INCLUDE_ALL_COMMITS: "true"
-          COUNT_PRIVATE: "true"
+          USERNAME: victoryotzev
+          INCLUDE_ALL_COMMITS: true
+          COUNT_PRIVATE: true
 
       - name: Commit changes
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add -A
-          git commit -m "Update github-profile-summary-cards" || exit 0
+          git commit -m "Update GitHub stats" || exit 0
 
       - name: Push changes
         uses: CasperWA/push-protected@v2
