@@ -1,6 +1,13 @@
 <div align="center">
-  
+
 # 👋 Hello World, I'm Viktor!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Always+learning+new+tech;Turning+coffee+into+code;Open+to+collaboration)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.yotzev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+![Profile views](https://komarev.com/ghpvc/?username=victoryotzev&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -35,3 +42,30 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img alt="Viktor's GitHub Stats" src="https://github-readme-stats-henna-nine-99.vercel.app/api?username=victoryotzev&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC" />
+    </td>
+    <td>
+      <img alt="Top Languages" src="https://github-readme-stats-henna-nine-99.vercel.app/api/top-langs?username=victoryotzev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC" />
+    </td>
+  </tr>
+</table>
+
+<img alt="Streak Stats" src="https://streak-stats.demolab.com?user=victoryotzev&theme=tokyonight&hide_border=true&background=0d1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/victoryotzev/victoryotzev/output/github-contribution-grid-snake.svg)
+
+</div>
